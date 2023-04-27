@@ -87,3 +87,15 @@ fun WelcomeScreen() {
         }
     }
 }
+
+
+@Composable
+fun SignUp(){
+
+}
+
+
+@Composable
+fun Login(){
+
+}
